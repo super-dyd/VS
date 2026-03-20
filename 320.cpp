@@ -4,6 +4,6 @@ int main()
 {
     int a; 
     cin >> a;
-    cout << a+5;
+    cout << a+7;
     return 0;
 }
